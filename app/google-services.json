@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "615674574143",
+    "firebase_url": "https://chdmapp.firebaseio.com",
+    "project_id": "chdmapp",
+    "storage_bucket": "chdmapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615674574143:android:43c397e22b2e8081",
+        "android_client_info": {
+          "package_name": "me.myds.g2u.chdmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615674574143-4nnu8hm8mk5c0sm25nqhctvoj204rg0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.myds.g2u.chdmapp",
+            "certificate_hash": "7afd5457409c14b62727b75af517f15c3861c84a"
+          }
+        },
+        {
+          "client_id": "615674574143-qv3199oacnkr4knnl93gma3f57b063de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtxpfCzp3Cnv2zbomF-Y12wlDq4S7-C8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615674574143-qv3199oacnkr4knnl93gma3f57b063de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
